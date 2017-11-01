@@ -1,9 +1,8 @@
 # Django 使用 FusionCharts 创建图表
 
-当前分支 django-wrapper-master
-把 django-wrapper-master.zip 做为应用集成到 Django 中，演示更多例子。
+当前所处分支 django-wrapper-master，演示了更多官方提供例子。
 
-注意：django-wrapper-master.zip 中有些代码混用了 tab 和空格导致启动异常，我在 ide 中做了修复，另一个是模块导入书写方式错误做了调整。
+注意：官方下载的 django-wrapper-master.zip 中有些代码混用了 tab 和空格导致启动异常，另一个是模块导入书写方式错误，我在 ide 中格式化做了修复。
 
 ## 相关资料
 
