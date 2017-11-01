@@ -2,11 +2,11 @@
 
 ## 相关资料
 
-Django Framework – [Download Link](https://www.djangoproject.com/download/)
-FusionCharts Library – [Download Link](https://www.fusioncharts.com/download/)
-FusionCharts Django wrapper – [Download Link](https://www.fusioncharts.com/django-charts/)
+- Django Framework – [Download Link](https://www.djangoproject.com/download/)
+- FusionCharts Library – [Download Link](https://www.fusioncharts.com/download/)
+- FusionCharts Django wrapper – [Download Link](https://www.fusioncharts.com/django-charts/)
 
-参考： [How To Create Charts In Django](https://www.fusioncharts.com/blog/creating-charts-in-django/)
+- 参考： [How To Create Charts In Django](https://www.fusioncharts.com/blog/creating-charts-in-django/)
 
 
 ## 演示方法
